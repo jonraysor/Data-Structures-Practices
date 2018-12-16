@@ -1,2 +1,2 @@
 # Data-Structures-Practices
-Examples of coursework with data strucuRes using C++
+Examples of coursework with data strucures using C++
